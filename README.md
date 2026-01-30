@@ -1,0 +1,2 @@
+# smiirlupdater
+Updates Smiirl counter
